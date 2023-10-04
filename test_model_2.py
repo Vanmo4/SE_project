@@ -1,5 +1,5 @@
 import io
-from pillow import Image
+from PLT import Image
 import numpy as np
 import pytest
 
