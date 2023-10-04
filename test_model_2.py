@@ -1,4 +1,5 @@
 import io
+import Pillow as PIL
 from PIL import Image
 import numpy as np
 import pytest
